@@ -58,12 +58,5 @@ graph TD
 
 ---
 
-## 👤 Autoría y Licencia
-
-- **Estudiante**: [TU NOMBRE AQUÍ]
-- **Proyecto**: Práctica Académica de Desarrollo Blockchain.
-- **Licencia**: [MIT](LICENSE)
-
-
 ---
 > ⚠️ **Este proyecto es de carácter académico y no está destinado a producción ni uso financiero real.**
