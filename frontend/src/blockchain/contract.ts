@@ -2,10 +2,7 @@
 import { ethers } from "ethers";
 import abi from "../../abi.json";
 
-const contractAddress = "0xd9145CCE52D386f254917e481eB44e9943F39138";
-// const contractAddress = "0x7CF0354a1f752416deeb6dF7dCBFFAe6fc452DD0";
-
-
+const contractAddress = import.meta.env.VITE_CONTRACT_ADDRESS;
 
 /**
  * Obtiene el provider de ethers usando MetaMask

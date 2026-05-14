@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { connectWallet } from "./blockchain/wallet";
 import { getAllAssets } from "./blockchain/assets";
+import "./App.css";
 
 function App() {
   const [account, setAccount] = useState<string>("");
